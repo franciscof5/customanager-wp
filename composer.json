@@ -1,5 +1,6 @@
 {
 	"name": "f5sites/customanager-wp",
+	"version": "0.1",
 	"description": "Costumer Manager WP portfolio project. WordPress F5 Sites DEV projects",
 	"type": "wordpress-theme",
 	"authors": [
